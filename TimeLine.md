@@ -4,9 +4,10 @@
 
 Full-Stack Developer
 
-- Professional with 3 years of experience.
+- Professional with 4 years of experience.
 - 2 years of experience mobile app
-- 2 year of experience Flutter
+- 1 year of experience Flutter
+- 1 year of experience Full-stack
 - Expert in SCRUM project
 
 Expertise
