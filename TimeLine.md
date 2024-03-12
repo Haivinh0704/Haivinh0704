@@ -4,21 +4,23 @@
 
 Full-Stack Developer
 
-- Professional with 3 years of experience.
-- 2 years of experience mobile app
-- 2 year of experience Flutter
+- Professional with 4 years of experience.
+- 2 years of experience web app
+- 1 year of experience Flutter
+- 1 year of experience Full-stack
 - Expert in SCRUM project
 
 Expertise
 
 - Custom Software Development
-- Software Development Lifecycle Client Support
+- Software Development Lifecycle
+- Client Support
 - System Analysis
 
 Professional Experience
 
 ```bash
-01/2023– now: TutinokoTech_LAB
+01/2023 – 3/2023: TutinokoTech_LAB
 
 Front-end Developer
 Japanese e-commerce development project
@@ -31,7 +33,7 @@ Stack: Ionic
 ```
 
 ```bash
-09/2022 – now: FindJob
+09/2022 – 2/2023: FindJob
 
 Full-Stack Developer
 Project on job connection between candidate suppliers and employers
