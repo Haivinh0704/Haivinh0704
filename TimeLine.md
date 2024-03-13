@@ -16,6 +16,23 @@ Expertise
 - Software Development Lifecycle Client Support
 - System Analysis
 
+Technology Summary
+
+- Stacks: Next.js, Nestjs, Flutter ,React, Angular, Ionic , HTML/CSS, JavaScript, C#<br>
+- Basic: Python, Golang, GDevelop<br>
+- Source code management tools: GIT<br>
+- Database: SQL Server, MariaDB, PosgreSQL, SQLite, MongoDB<br>
+- Integrated Technology:AWS, Meilisearch, Docker, ThreeJs, Prime, TypeOrm, Tailwindcss, Ubuntu
+
+Education
+```bash
+FPT-APTECH || Hanoi, Vietnam
+```
+
+```bash
+HANOI UNIVERSITY OF MINING AND GEOLOGY || Hanoi, Vietnam
+```
+
 Professional Experience
 ```bash
 07/2023 – now: Unios
@@ -287,18 +304,3 @@ Stack: HTML/CSS , JavaScript, Angular, Unity - Bolt , GDevelop
 - Software analysis and development
 - Book-to-app conversion and animation
 ```
-
-Technology Summary
-
-Stacks: Next.js, Nestjs, Flutter ,React, Angular, Ionic , HTML/CSS, JavaScript, C# - Unity - Bolt
-Basic: Python, Lavarel - PHP , GDevelop
-Source code management tools: GIT
-Database: SQL Server, MariaDB, PosgreSQL, SQLite, MongoDB
-
-Education
-
-FPT-APTECH
-Hanoi, Vietnam
-
-HANOI UNIVERSITY OF MINING AND GEOLOGY
-Hanoi, Vietnam
