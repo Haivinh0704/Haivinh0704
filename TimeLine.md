@@ -2,7 +2,7 @@
     TRẦN VŨ HẢI VINH
 ```
 
-Full-Stack Developer
+<h1>Full-Stack Developer</h1>
 
 - Professional with 4 years of experience.
 - 2 years of experience mobile app
@@ -10,13 +10,13 @@ Full-Stack Developer
 - 1 year of experience Full-stack
 - Expert in SCRUM project
 
-Expertise
+<h2>Expertise</h2>
 
 - Custom Software Development
 - Software Development Lifecycle Client Support
 - System Analysis
 
-Technology Summary
+<h2>Technology Summary</h2>
 
 - Stacks: Next.js, Nestjs, Flutter ,React, Angular, Ionic , HTML/CSS, JavaScript, C#<br>
 - Basic: Python, Golang, GDevelop<br>
@@ -24,7 +24,8 @@ Technology Summary
 - Database: SQL Server, MariaDB, PosgreSQL, SQLite, MongoDB<br>
 - Integrated Technology:AWS, Meilisearch, Docker, ThreeJs, Prime, TypeOrm, Tailwindcss, Ubuntu
 
-Education
+<h2>Education</h2>
+    
 ```bash
 FPT-APTECH || Hanoi, Vietnam
 ```
@@ -33,7 +34,8 @@ FPT-APTECH || Hanoi, Vietnam
 HANOI UNIVERSITY OF MINING AND GEOLOGY || Hanoi, Vietnam
 ```
 
-Professional Experience
+<h2>Professional Experience</h2>
+    
 ```bash
 07/2023 – now: Unios
 Full-stack Developer
