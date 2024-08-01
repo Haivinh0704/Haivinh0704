@@ -2,7 +2,7 @@
     TRẦN VŨ HẢI VINH
 ```
 
-Full-Stack Developer
+<h1>Full-Stack Developer</h1>
 
 - Professional with 4 years of experience.
 - 2 years of experience web app
@@ -10,31 +10,160 @@ Full-Stack Developer
 - 1 year of experience Full-stack
 - Expert in SCRUM project
 
-Expertise
+<h2>Expertise</h2>
 
 - Custom Software Development
 - Software Development Lifecycle
 - Client Support
 - System Analysis
 
-Professional Experience
+<h2>Technology Summary</h2>
+
+- Stacks: Next.js, Nestjs, Flutter ,React, Angular, Ionic , HTML/CSS, JavaScript, C#<br>
+- Basic: Python, Golang, GDevelop<br>
+- Source code management tools: GIT<br>
+- Database: SQL Server, MariaDB, PosgreSQL, SQLite, MongoDB<br>
+- Integrated Technology:AWS, Meilisearch, Docker, ThreeJs, Prime, TypeOrm, Tailwindcss, Ubuntu
+
+<h2>Education</h2>
+    
+```bash
+FPT-APTECH || Hanoi, Vietnam
+```
 
 ```bash
-01/2023 – 3/2023: TutinokoTech_LAB
+HANOI UNIVERSITY OF MINING AND GEOLOGY || Hanoi, Vietnam
+```
 
+<h2>Professional Experience</h2>
+    
+```bash
+07/2023 – now: Unios
+Full-stack Developer
+Changing how the world views lighting. Australian Manufacturer of Premium Architectural Lighting Servicing the Globe.
+Stack: Nextjs – GrapHQL – C# - Lambda - Postgr
+- Perfomance Sql query. Access, process and synchronize big data
+- Vercel
+- Lamda func AWS
+- S3 manager file
+- Prime
+- C# project working with files on S3 deployed to a lambda function
+- Graphql
+- Fishbowl - Data management software
+- framer-motion - using animations from framer-motion
+- Meilisearch
+```
+
+```bash
+02/2024 – 03/2024: Hosting
+Font-end Developer
+Product introduction blog project of Hosting
+Stack: Nextjs – SVG - tailwindcss
+- Animation
+- Tailwindcss
+- SVG
+- Team manager
+```
+
+```bash
+12/2023 – 01/2024: Betting
+Font-end Developer
+Product introduction blog project of Betting
+Stack: Nextjs – SVG
+- Animation
+- Chart – echart
+- SVG
+- Team manager
+```
+
+```bash
+09/2023 – 11/2024: Viet-Uc
+Font-end Developer
+The development project aims to digitize education, bringing education closer to students.
+Stack: HTML – JS - Jquery
+- Content
+```
+
+```bash
+09/2023 – 11/2023: Blog-tcom
+Full-stack Developer
+A blog page introducing the company I am currently working at ^^
+Stack: Nestjs – Nextjs
+- SEO
+- Mutiple Language
+- Performance
+- Security
+- Team manager
+```
+
+```bash
+06/2023 – 09/2023: PET-X
+Full-stack Developer
+The project for developing technology for hospitals in South Korea is currently being implemented in this country
+Stack: Nestjs – Nextjs
+- Sercurity Server file
+- CMD in Server
+- Mutiple Project
+- Paypal manager
+- Convert Python to JS
+- Image-related processing (drawing, drag and drop, zoom,...)
+- Server file processing ( read, sercurity, write, ....)
+- Threejs
+```
+
+```bash
+05/2023 – 06/2023: LMS
+Full-stack Developer
+Applications for schools in Australia are distributed and popularized internally within the school.
+Stack: Nestjs – Nextjs
+- Module Calendar
+- Module Notification
+- Module Annoucement
+- My Course
+- Module Content
+```
+
+```bash
+03/2023 – 05/2023: Stimul
+Back end Developer
+This all-in-one app offers a rich array of features, including self-hypnosis, subliminal messaging, and powerful affirmations. By immersing yourself in the world of STiMUL-i, you'll be able to effortlessly reprogram your subconscious mind, aligning your thoughts and intentions with the frequency of abundance
+Stack: Nestjs – AWS – Postgr 
+- Firebase Midwave 
+- Security
+- Perfomance Upload File
+- S3 Manager
+- Write File log error
+- In-app Apple and Google
+- Webhook In-app
+- support handle situations for IOS and Android platforms
+```
+
+```bash
+03/2023: chat-messenger
+Back end Developer
+Building and developing chat applications using Socket IO technology
+Stack: nodejs – socketIO – redis – nginx - nestJS
+- Module chat messenger
+- UI Admin Socket IO
+- Optimize the number of users connect and distribute the load with Redis Adapter
+- Webhook api
+- Build a chat package
+```
+
+```bash
+01/2023– 03/2023: TutinokoTech_LAB
 Front-end Developer
 Japanese e-commerce development project
 Stack: Ionic
 - Module register, login
-- Module point
+- Module point 
 - Profile User
 - Gacha point
-- Ads mode cordova ionic
+- Ads mode cordova ionic 
 ```
 
 ```bash
 09/2022 – 2/2023: FindJob
-
 Full-Stack Developer
 Project on job connection between candidate suppliers and employers
 Stack: Flutter – App Mobile, Nestjs – TypeOrm
@@ -177,18 +306,3 @@ Stack: HTML/CSS , JavaScript, Angular, Unity - Bolt , GDevelop
 - Software analysis and development
 - Book-to-app conversion and animation
 ```
-
-Technology Summary
-
-Stacks: Next.js, Nestjs, Flutter ,React, Angular, Ionic , HTML/CSS, JavaScript, C# - Unity - Bolt
-Basic: Python, Lavarel - PHP , GDevelop
-Source code management tools: GIT
-Database: SQL Server, MariaDB, PosgreSQL, SQLite, MongoDB
-
-Education
-
-FPT-APTECH
-Hanoi, Vietnam
-
-HANOI UNIVERSITY OF MINING AND GEOLOGY
-Hanoi, Vietnam
