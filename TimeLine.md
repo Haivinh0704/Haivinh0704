@@ -5,7 +5,7 @@
 <h1>Full-Stack Developer</h1>
 
 - Professional with 4 years of experience.
-- 2 years of experience mobile app
+- 2 years of experience web app
 - 1 year of experience Flutter
 - 1 year of experience Full-stack
 - Expert in SCRUM project
@@ -13,7 +13,8 @@
 <h2>Expertise</h2>
 
 - Custom Software Development
-- Software Development Lifecycle Client Support
+- Software Development Lifecycle
+- Client Support
 - System Analysis
 
 <h2>Technology Summary</h2>
@@ -162,8 +163,7 @@ Stack: Ionic
 ```
 
 ```bash
-09/2022 – 02.2023: FindJob
-
+09/2022 – 2/2023: FindJob
 Full-Stack Developer
 Project on job connection between candidate suppliers and employers
 Stack: Flutter – App Mobile, Nestjs – TypeOrm
