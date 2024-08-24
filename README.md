@@ -39,9 +39,3 @@
 - 📫 How to reach me **haivinhinspirit@gmail.com**
 
 - 📄 Know about my experiences [My Portfolio](https://portfolio-haivinh-97.vercel.app/)
-<h3 align="left">🛠 Language and tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
