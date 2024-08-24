@@ -50,9 +50,36 @@ Stack: Nextjs – GrapHQL – C# - Lambda - Postgr
 - C# project working with files on S3 deployed to a lambda function
 - Graphql
 - Fishbowl - Data management software
-- framer-motion - using animations from framer-motion
+- Framer-motion - using animations from framer-motion
 - Meilisearch
+- SQS
+- Load Balancers
 ```
+
+```bash
+06/2024 – 08/2024: Mini App Telegram
+Full-stack Developer
+Mutiple project tap tap mini app
+Stack: Nodejs - react - vite - TON
+- Mutiple Language
+- Connect TON
+- Management telegram config and api
+- Handling large volumes of website traffic
+- Team manager
+```
+
+
+```bash
+04/2024 – 06/2024: SOT
+Full-stack Developer
+Internal project, a website for ordering at a restaurant in Japan.
+Stack: Vue - Vite - Pinia - PHP
+- Mutiple Language
+- POS
+- Pinia
+- Team manager
+```
+
 
 ```bash
 02/2024 – 03/2024: Hosting
