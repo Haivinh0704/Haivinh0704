@@ -16,6 +16,7 @@
 - Software Development Lifecycle
 - Client Support
 - System Analysis
+- Training and developing internal software.
 
 <h2>Technology Summary</h2>
 
