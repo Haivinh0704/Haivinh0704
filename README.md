@@ -1,12 +1,47 @@
-Lời đầu tiên cảm ơn bạn đã ghé thăm trang của mình ^^!
 
-Mình là Hải Vinh, mình luôn luôn nỗ lực để hoàn thiện bản thân mình nhiều hơn nữa.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=haivinh0704&label=Profile%20views&color=0e75b6&style=flat" alt="haivinh0704" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1 align="center">Hi 👋, I'm Hai Vinh</h1>
+<h3 align="center">I always strive to continuously improve myself.</h3>
 
-Tự nhận thấy mình là người hơi nghiêm túc trong công việc nhưng hài hước trong cuộc sống. Mình thuộc tuýt người tích cực, luôn đồng cảm và giúp đỡ mọi người. Luông tin vào những điều đúng đắn, không ngại tranh luân, không ngại nhận lỗi và không bao giờ ngừng học hỏi.
+###
 
-Mình từng có 4 năm học tại Đại học Mỏ Địa Chất và 2 năm học tại FPT-Apptech ( cơ sở Hà Nội ). Hiện mình đang làm "Full-stack development" tại Hà Nội.
-Cảm ơn bạn đã đọc về mình, để biết thêm về mình bạn có thể tham khảo 1 vài mục trong github của mình ^^. Chúc bạn may mắn và thuận lợi trong công việc lẫn cuộc sống.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-```bash
- Nếu bạn có câu hỏi hay đặt issues cho tôi, tôi sẽ cố gắng trả lời bạn trong thời gian sớm nhất ^^ Chúc bạn mọi sự hanh thông.
-```
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">
+ I see myself as someone who is a bit serious at work but humorous in life. I’m a positive person, always empathetic and willing to help others. I believe in doing the right things, I’m not afraid to argue, admit mistakes, and I never stop learning.
+<br/>
+ I studied for 4 years at the University of Mining and Geology and 2 years at FPT-Apptech (Hanoi campus). Currently, I’m working as a "Full-stack developer" in Hanoi.
+</p>
+
+###
+
+- 🔭 I’m currently working on [Tcom Company](https://tcom.vn)
+
+- 🤝 I’m looking for help with **Future orientation**
+
+- 👨‍💻 All of my projects are available at [My Landing Page](https://landing-portfolio-vinh.vercel.app/)
+
+- 📝 I regularly write articles on [Vibo](https://viblo.asia/u/haivinh)
+
+- 📫 How to reach me **haivinhinspirit@gmail.com**
+
+- 📄 Know about my experiences [My Portfolio](https://portfolio-haivinh-97.vercel.app/)
+<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
