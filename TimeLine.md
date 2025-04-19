@@ -7,7 +7,7 @@
 - Professional with 4 years of experience.
 - 2 years of experience web app
 - 1 year of experience Flutter
-- 1 year of experience Full-stack
+- 2 year of experience Full-stack
 - Expert in SCRUM project
 
 <h2>Expertise</h2>
@@ -37,7 +37,7 @@ HANOI UNIVERSITY OF MINING AND GEOLOGY || Hanoi, Vietnam
 ```
 
 <h2>Professional Experience</h2>
-    
+
 ```bash
 07/2023 – now: Unios
 Full-stack Developer
@@ -47,7 +47,7 @@ Stack: Nextjs – GrapHQL – C# - Lambda - Postgr
 - Vercel
 - Lamda func AWS
 - S3 manager file
-- Prime
+- Prime, knex
 - C# project working with files on S3 deployed to a lambda function
 - Graphql
 - Fishbowl - Data management software
@@ -57,16 +57,50 @@ Stack: Nextjs – GrapHQL – C# - Lambda - Postgr
 - Load Balancers
 ```
 
+
 ```bash
-06/2024 – 08/2024: Mini App Telegram
+05/2022 – now: Viet-Uc
+Font-end Developer
+The development project aims to digitize education, bringing education closer to students.
+Stack: HTML – JS - Jquery
+- Content HTML/CSS/JS
+- Jquery
+```
+
+
+```bash
+10/2024 – now: Motoya
 Full-stack Developer
-Mutiple project tap tap mini app
-Stack: Nodejs - react - vite - TON
+A Japanese platform for buying second-hand items directly from users. It allows easy item listings, quick price evaluations, and smooth pickup services—promoting reuse and eco-friendly living.
+Stack: Nestjs - Next - Vite - React - Redis
+- Team manager
+- Mutiple Language
+- S3 mangager file
+- Redis
+- Socket
+- XML, PDF, QRcode ,MUI, Dayjs
+- Japanese delivery service - Yamato
+- Japanese identity verification - EKYC
+- MUI, Dayjs
+- Line
+- Reduxjs/toolkit
+- zod form
+```
+
+
+```bash
+06/2024 – 10/2024: Mini App Telegram
+Project : Hanagold / Runtogether / Live Trade / Vfilm / Bami / Geek
+Full-stack Developer
+Mutiple project mini app in telegram
+Stack: Nodejs - react - vite - TON - Redis
+- Team manager
 - Mutiple Language
 - Connect TON
 - Management telegram config and api
 - Handling large volumes of website traffic
-- Team manager
+- Redis cache
+- Mongodb
 ```
 
 
@@ -75,10 +109,10 @@ Stack: Nodejs - react - vite - TON
 Full-stack Developer
 Internal project, a website for ordering at a restaurant in Japan.
 Stack: Vue - Vite - Pinia - PHP
+- Team manager
 - Mutiple Language
 - POS
 - Pinia
-- Team manager
 ```
 
 
@@ -87,10 +121,10 @@ Stack: Vue - Vite - Pinia - PHP
 Font-end Developer
 Product introduction blog project of Hosting
 Stack: Nextjs – SVG - tailwindcss
+- Team manager
 - Animation
 - Tailwindcss
 - SVG
-- Team manager
 ```
 
 ```bash
@@ -98,18 +132,10 @@ Stack: Nextjs – SVG - tailwindcss
 Font-end Developer
 Product introduction blog project of Betting
 Stack: Nextjs – SVG
+- Team manager
 - Animation
 - Chart – echart
 - SVG
-- Team manager
-```
-
-```bash
-09/2023 – 11/2024: Viet-Uc
-Font-end Developer
-The development project aims to digitize education, bringing education closer to students.
-Stack: HTML – JS - Jquery
-- Content
 ```
 
 ```bash
@@ -117,11 +143,11 @@ Stack: HTML – JS - Jquery
 Full-stack Developer
 A blog page introducing the company I am currently working at ^^
 Stack: Nestjs – Nextjs
+- Team manager
 - SEO
 - Mutiple Language
 - Performance
 - Security
-- Team manager
 ```
 
 ```bash
@@ -129,6 +155,7 @@ Stack: Nestjs – Nextjs
 Full-stack Developer
 The project for developing technology for hospitals in South Korea is currently being implemented in this country
 Stack: Nestjs – Nextjs
+- Team manager
 - Sercurity Server file
 - CMD in Server
 - Mutiple Project
