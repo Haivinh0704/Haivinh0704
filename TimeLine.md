@@ -89,6 +89,26 @@ Stack: Nestjs - Next - Vite - React - Redis
 
 
 ```bash
+06/2025 –12/2025: Flamingo
+Full-stack Developer
+Flamingo is a comprehensive ERP solution for human resource management and revenue analytics, helping organizations monitor and understand their business performance
+Stack: Nestjs - Next - Vite - React – Redis – Socket - Webpush
+- Team manager
+- Mutiple Language
+- S3 mangager file
+- Redis, buillMQ
+- Webpush
+- Socket
+- jsPdf, OrgChart, HighChart
+- Japanese delivery service - Yamato
+- Japanese identity verification - EKYC
+- Bootstrap
+- Reduxjs/toolkit
+- zod form
+```
+
+
+```bash
 06/2024 – 10/2024: Mini App Telegram
 Project : Hanagold / Runtogether / Live Trade / Vfilm / Bami / Geek
 Full-stack Developer
