@@ -57,6 +57,20 @@ Stack: Nextjs – GrapHQL – C# - Lambda - Postgr
 - Load Balancers
 ```
 
+```bash
+02/2026 – now: Verlora
+Solopreneur
+Full-stack spa booking & e-commerce platform.
+- NestJS
+- Vercel
+- React (Vite)
+- TypeScript
+- PostgreSQL
+- Redis
+- Stripe
+- Docker
+- Infra
+```
 
 ```bash
 05/2022 – now: Viet-Uc
@@ -66,7 +80,6 @@ Stack: HTML – JS - Jquery
 - Content HTML/CSS/JS
 - Jquery
 ```
-
 
 ```bash
 10/2024 – now: Motoya
@@ -87,7 +100,6 @@ Stack: Nestjs - Next - Vite - React - Redis
 - zod form
 ```
 
-
 ```bash
 06/2025 –12/2025: Flamingo
 Full-stack Developer
@@ -107,7 +119,6 @@ Stack: Nestjs - Next - Vite - React – Redis – Socket - Webpush
 - zod form
 ```
 
-
 ```bash
 06/2024 – 10/2024: Mini App Telegram
 Project : Hanagold / Runtogether / Live Trade / Vfilm / Bami / Geek
@@ -123,7 +134,6 @@ Stack: Nodejs - react - vite - TON - Redis
 - Mongodb
 ```
 
-
 ```bash
 04/2024 – 06/2024: SOT
 Full-stack Developer
@@ -134,7 +144,6 @@ Stack: Vue - Vite - Pinia - PHP
 - POS
 - Pinia
 ```
-
 
 ```bash
 02/2024 – 03/2024: Hosting
@@ -202,8 +211,8 @@ Stack: Nestjs – Nextjs
 03/2023 – 05/2023: Stimul
 Back end Developer
 This all-in-one app offers a rich array of features, including self-hypnosis, subliminal messaging, and powerful affirmations. By immersing yourself in the world of STiMUL-i, you'll be able to effortlessly reprogram your subconscious mind, aligning your thoughts and intentions with the frequency of abundance
-Stack: Nestjs – AWS – Postgr 
-- Firebase Midwave 
+Stack: Nestjs – AWS – Postgr
+- Firebase Midwave
 - Security
 - Perfomance Upload File
 - S3 Manager
@@ -231,10 +240,10 @@ Front-end Developer
 Japanese e-commerce development project
 Stack: Ionic
 - Module register, login
-- Module point 
+- Module point
 - Profile User
 - Gacha point
-- Ads mode cordova ionic 
+- Ads mode cordova ionic
 ```
 
 ```bash
