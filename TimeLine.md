@@ -59,17 +59,14 @@ Stack: Nextjs – GrapHQL – C# - Lambda - Postgr
 
 ```bash
 02/2026 – now: Verlora
-Solopreneur
-Full-stack spa booking & e-commerce platform.
-- NestJS
-- Vercel
-- React (Vite)
-- TypeScript
-- PostgreSQL
-- Redis
+Founder & Full-stack Developer 
+Spa & wellness booking platform with integrated e-commerce – letting salons take appointments and sell products in one place. Built for the Japanese market, designed as a multi-tenant SaaS.
+Stack: Nestjs - Vite - React - React Native - PostgreSQL - Redis - AWS
+- Designed and built the product end-to-end as a solo developer 
+- Online booking: services, staff schedules, time slots
+- Integrated e-commerce: product catalog, cart, checkout alongside appointments 
+- Multi-tenant architecture
 - Stripe
-- Docker
-- Infra
 ```
 
 ```bash
@@ -82,7 +79,29 @@ Stack: HTML – JS - Jquery
 ```
 
 ```bash
-10/2024 – now: Motoya
+09/2025 – now: Inbid
+Full-stack Developer
+A Japanese live-auction platform for Instagram sellers. Sellers create auctions, go live on Instagram, and buyers bid straight from the live comments — Inbid reads the comments in real time, updates the price, picks the winner and DMs them a payment link.
+Stack: Nestjs - Vite - React - React Native - PostgreSQL - Redis - AWS
+- Team manager
+ - Multiple Language (EN/JA/VI - nestjs-i18n, i18next)
+ - Instagram Graph API - live_comments webhook, OAuth, auto DM
+ - Realtime auction - Socket.io + Redis adapter (multi-instance)
+ - BullMQ queues & cron jobs - auction closing, social sync, reports, audit
+ - Japanese payment gateway - PAY.JP (card, subscription, seller payout)
+ - In-app purchase - Apple IAP & Google Play billing + subscription lifecycle
+ - AWS - S3 file manager, SES mail, CloudWatch logs
+ - Firebase Cloud Messaging - push notification (web + mobile)
+ - Excel, PDF, QRcode, Sharp image processing
+ - 2FA (speakeasy), Helmet, CSP, abuse report & moderation
+ - React Native CLI - Reduxjs/toolkit, Redux-saga, Redux-persist
+ - Antd, TailwindCSS, Recharts, Highcharts, Dayjs
+ - Tanstack Query, React-hook-form, Zod
+ - Cypress E2E, Docker, CI/CD
+```
+
+```bash
+10/2024 – now: GamaQ
 Full-stack Developer
 A Japanese platform for buying second-hand items directly from users. It allows easy item listings, quick price evaluations, and smooth pickup services—promoting reuse and eco-friendly living.
 Stack: Nestjs - Next - Vite - React - Redis
