@@ -32,10 +32,10 @@
 
 - 🤝 I’m looking for help with **Future orientation**
 
-- 👨‍💻 All of my projects are available at [My Landing Page](https://landing-portfolio-vinh.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Landing Page](https://lab.hventure.business/)
 
 - 📝 I regularly write articles on [Vibo](https://viblo.asia/u/haivinh)
 
 - 📫 How to reach me **haivinhinspirit@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://portfolio-haivinh-97.vercel.app/)
+- 📄 Know about my experiences [My Portfolio](https://card.hventure.business/)
