@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Hai Vinh</h1>
+<h1 align="center">Hi 👋, I'm Trần Vũ Hải Vinh (Hai Vinh)</h1>
 <h3 align="center">I always strive to continuously improve myself.</h3>
 
 ###
@@ -38,4 +38,6 @@
 
 - 📫 How to reach me **haivinhinspirit@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://card.hventure.business/)
+- 📄 Know about my experiences [Trần Vũ Hải Vinh — Portfolio](https://card.hventure.business/)
+
+- 🧑‍💻 My story: [Trần Vũ Hải Vinh](https://www.hventure.business/hai-vinh/)
